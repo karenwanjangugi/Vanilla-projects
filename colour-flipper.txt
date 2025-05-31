@@ -1,0 +1,3 @@
+1. create a button
+2. Add a javascript function to generate a random HEX color
+3. Click button to change the background color
